@@ -3,7 +3,7 @@
 > **"A Multi-Modal, Decoupled Intrusion Detection System for Second-Hand E-Commerce Marketplaces: Design, Implementation, and Experimental Validation"**
 > Kiouaz Selssabila · Amara Karima · Naït Abdesselam Farid · ESTIN / Université Paris Cité · 2026
 
----
+---  
 
 ## About 
 
