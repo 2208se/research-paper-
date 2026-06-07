@@ -5,7 +5,7 @@
 
 ---
 
-## About
+## About 
 
 This repository contains the presentation slides for the research article on the SoukDZ multi-modal intrusion detection system — a two-layer, fully decoupled IDS designed and experimentally validated for a second-hand e-commerce marketplace in Algeria.
 
